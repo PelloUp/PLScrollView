@@ -1,1 +1,5 @@
 # PLScrollView
+
+```
+pod 'PLScrollView'
+```
